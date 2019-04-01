@@ -1,6 +1,6 @@
-#1. https://www.shiyanlou.com/courses/1003
+# 1. https://www.shiyanlou.com/courses/1003
 
-#2.  maven project
+# 2.  maven project
 ```
  How to build
  mvn clean package
